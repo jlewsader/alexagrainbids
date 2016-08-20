@@ -1,0 +1,11 @@
+{
+  "name": "grainbids",
+  "version": "0.0.0",
+  "description": "Alexa Skill for Grain Bids",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jlewsader",
+  "license": "ISC"
+}
